@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "skin-detection-api",
+  "private_key_id": "2c6800c38b188276d7a2d88ae7610244dcc11239",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4w4m5nuBjUBSc\nFw4n//wLpGiEk8JqmbusFYYTXqVkQCrSIW8ByUelVzNkm9+dTCk17ZNB28HkLvW+\nyIgLbQYyqfyPbtwoC9z8NxgeSqkohF7nW0xFAPG5a2Bhd/mn9FaeYtnkMGg/nox4\ni8ueKJ2gKYVwaWXiXjk0NtTJXnGfyD3U9jCsqDIMnm1V6lCCsOYobTSQwckZD/Zp\nAlzwkeVI7Yz0JMOXnHtV1vpA7Ub18Ef8n0uOeXs3zDGmdYW2jOTc1eIO1YzS5Io0\nk38uUEoFK5QdnrRqvNPHJKZNgJ/KCLO6ARCtuSqRS9xSSM9MxQu4L5z8ab6+yxdY\neXOgTJU5AgMBAAECggEATmd30cOIP8yTOluUP8giikQ1sBDNvxPGrnMhxqVytNR/\n91SFuTHTS+fxoJ9+qE7R7BcJVritEioVUWTiSkr1BtnYmXs3RG0oVQUCIJSZLN7j\nMPUuq9eHPCJDL4lMcYe/nA2hnfImwtyCioL0IITmwrjr7bRkLkfCqZQc/uiredwz\nUPj6t+S5A9OBb9N1tPpo+8EKQ0G5mUkQt0k/NHBXg4gx+PrEhvzxAAXKCr9sQEmr\nioYJKGEGDig1fj3U20MEeFDXU6Q8o4mrIHY8/iJAsVXG/detvaM6GUnoyhjpe+zA\nzlbPwQ/VF5I9i3uSAwI6LvW8PZX4vztxDzZVNZoaOwKBgQDwfmbV4gL7YMTqPFGw\nTEn64QyKJxDXkPN2i9yKEMrB7AB10VN+RLZzpRMJxfgjio9SOzZjZOXNDqCdRg4s\nXDIAXP3Ap8BaQzwyCBQw1Wn3lxM52Je/pPNWLlbxG7E1QIEsNtkYcRSP3EqJ1zB4\nglwri6tpnh/NcWsZDGfT4d5OOwKBgQDErUGKrY/tb0LZUSjTBVxIaRUCIqCjTAXt\nrGzZzcy+mGYS3iiZnPMhC+JzA4CpMjAWNzilrc/XWivkJPHSQKtSDADzDgublbm+\nyX9AUK+6UZK+9+VGEdOZrVS6cjBxPqOAbsZbepVscVzUX2xeS/cnRdYAHG24T63b\naaxyPSCvGwKBgQCsICwGBP9RX89QPt/QqKmCcDSDZLZ/MvWt8ShlgOM9rGYf7TQu\n+YsEdi+MHS8ecPtnRY4F0Z9QBpoaNpvKUCpRbD0J+IaJk/mvbWzWDskLNgvCqSzj\nM3IeSohbhRBuJr7NIGx9O+IVnPuUcHn2pobFe++xZkUoy3Z1tRVS5yQvJQKBgBuz\nAv4S/6hC+Tk+Eu/VW2/fTNQmKFWXSWZ12Ea8k09si0OxAirQTfWjhNsJ7T7nEJqw\nYEwFNLZxvqi9A0nHTdmaUy/oFH5vEd/q5P8b3gPxpSc8JpA9xn1oSfyQRH5Oghx+\nfXU4yH6jYJ2QauTE8iQX09HkLxe8MRIrydu0/DttAoGBAIBjbcKFEEaJD7ANDc/4\n4BsB4mFhAvpELPiwyjToxyCLYT8DQQZWxos+g/FcFwFraTDKk+DEhTNyxZMkGIGt\nBhdX/NQl2Gb28LJIGv8/vyRNmPr71g3UMW1xmTmvRJpJ1MIz5RdTfb04E8ExExjr\nq/mH3atF7232KL6XCUhQmmUp\n-----END PRIVATE KEY-----\n",
+  "client_email": "skin-detection-api-992@skin-detection-api.iam.gserviceaccount.com",
+  "client_id": "114226606646665549200",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skin-detection-api-992%40skin-detection-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

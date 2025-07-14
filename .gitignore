@@ -1,0 +1,7 @@
+tf_env/ 
+_pycache_/ 
+*.pyc 
+*.zip 
+*.mp4 
+*.pkl 
+.DS_Store 
